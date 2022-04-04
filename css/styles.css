@@ -1,0 +1,102 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+
+hr {
+  border-color: hsl(215, 32%, 27%);
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  width: 85%;
+}
+
+p {
+  font-size: 1.125rem;
+  margin-left: 18px;
+  font-size: 16px;
+  color: hsl(215, 51%, 70%);
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 18px;
+  margin-left: 18px;
+  color: hsl(0, 0%, 100%);
+  margin-top: 5px;
+}
+
+span {
+  color: hsl(0, 0%, 100%);
+}
+
+.flex-box {
+  width: 18rem;
+  height: 30.625rem;
+  background-color: hsl(216, 50%, 16%);
+  margin: 8.125rem auto 4.6875rem auto;
+  border-radius: 15px;
+}
+
+.equilibrium {
+  margin: 20px 2px 15px 18px;
+  width: 250px;
+  border-radius: 15px;
+}
+
+.flex-box-container {}
+
+.ethereum {
+  display: inline-block;
+  margin-left: 18px;
+  position: relative;
+  top: 2px;
+  height: 15px;
+  width: 9px;
+}
+
+.value {
+  display: inline-block;
+  margin-left: 2px;
+  font-size: 16px;
+  color: hsl(178, 100%, 50%);
+}
+
+.clock {
+  display: inline-block;
+  position: relative;
+  left: 75px;
+  width: 15px;
+  height: 15px;
+  top: 2px;
+}
+
+.days {
+  display: inline-block;
+  margin-left: 77px;
+  font-size: 16px;
+}
+
+.avatar {
+  display: inline-block;
+  width: 25px;
+  margin-left: 18px;
+  margin-bottom: 0px;
+  position: relative;
+  top: 8px;
+}
+
+.name {
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 10px;
+  font-size: 14px;
+}
